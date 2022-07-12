@@ -1,0 +1,8 @@
+td {
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  font-size: 75px;
+  border-width: thick;
+  border-color: black;
+}
